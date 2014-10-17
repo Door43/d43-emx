@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[emx:home|Door43 (emx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-emx|d43-emx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-emx/archive/master.zip|d43-emx.zip]]
+
+**Recent Changes**
+{{changes>ns = emx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/emx|Ethnologue data]]
+
